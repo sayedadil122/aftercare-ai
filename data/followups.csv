@@ -1,0 +1,18 @@
+followup_id,repair_id,customer_name,scheduled_at,call_status,health_status,risk_score,issue_detected,severity,sentiment,recommended_action,ticket_required,issue_category,issue_summary
+F001,R001,Rahul Sharma,2026-08-14 17:00,Completed,Issue Detected,84,Yes,High,Negative,Technician Revisit,Yes,,
+F002,R002,Aisha Khan,2026-08-14 19:15,Completed,Healthy,5,No,Low,Positive,Close Case,No,,
+F003,R003,Vikram Patel,2026-08-14 15:30,Completed,Healthy,15,No,Low,Positive,Close Case,No,,
+F004,R004,Neha Verma,2026-08-14 12:45,Completed,Healthy,12,No,Low,Positive,Close Case,No,,
+F005,R005,Arjun Mehta,2026-08-14 11:20,Completed,Critical,93,Yes,Critical,Negative,Immediate Escalation,Yes,,
+F006,R006,Demo Customer,2026-08-15 03:40,Completed,Issue Detected,75,Yes,High,Negative,Warranty Review + Technician Revisit,Yes,,
+F007,R007,Adil,2026-08-15 03:43,Completed,Issue Detected,65,Yes,Medium,Negative,Warranty Review + Technician Revisit,Yes,,
+F008,R008,Aaaaaa,2026-08-15 03:54,Completed,Healthy,10,No,Low,Neutral,Close Case,No,,
+F009,R009,Adil sayed,2026-08-15 07:11,Completed,Issue Detected,50,Yes,Medium,Positive,,Yes,Camera,Customer reported a post-service camera issue.
+F010,R010,Demo Customer,2026-08-15 05:11,Completed,Healthy,5,No,Low,Positive,,No,,Customer confirmed the repaired device is working properly.
+F011,R011,Adil Sayed,2026-08-15 05:18,Completed,Issue Detected,40,Yes,Medium,Positive,,Yes,Other,Customer reported a post-service other issue.
+F012,R012,adil Abbas,2026-08-15 09:28,Completed,Issue Detected,65,Yes,High,Negative,,Yes,Other,Customer reports screen touch freezing after repair.
+F013,R013,Demo Customer,2026-08-15 06:25,Completed,Issue Detected,65,Yes,High,Negative,,Yes,Other,Customer reports screen touch freezing after repair.
+F014,R014,Demo Customer,2026-08-15 06:31,Completed,Issue Detected,75,Yes,High,Negative,,Yes,Display / Touch,Customer reports screen touch freezing after repair.
+F015,R015,Demo Customer,2026-08-15 06:33,Completed,Issue Detected,40,Yes,Medium,Positive,,Yes,Display / Touch,"The repaired device is not working properly; the customer reported the screen is damaged after the service and said there was no new physical damage or water exposure, only screen damage right now."
+F016,R016,Adil Abbas ,2026-08-15 07:05,Completed,Issue Detected,100,Yes,Critical,Positive,,Yes,Heating / Safety,"Customer reported that the replaced screen still has an issue and the screen is damaged; the issue began after the service. No other issues such as water exposure, overheating, smoke, swelling, or burning smell were reported."
+F017,R017,Adil Abbas,2026-08-15 18:40,Scheduled,Pending,0,No,Low,Neutral,AI Follow-up Scheduled,No,,

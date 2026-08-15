@@ -1,0 +1,14 @@
+ticket_id,repair_id,customer_name,issue,severity,priority,status,assigned_team,warranty_review,created_at,risk_score,safety_issue,next_action
+T001,R001,Rahul Sharma,Touch freezing after screen replacement,High,P1,Open,Technician Team,Recommended,2026-08-14 17:08,,,
+T002,R005,Arjun Mehta,Display issue with device heating,Critical,P0,Escalated,Senior Technician,Required,2026-08-14 11:28,,,
+T003,R002,Aisha Khan,Customer reports intermittent touch freezing after screen replacement.,High,P1,Open,Technician Team,Recommended,2026-08-14 22:26,,,
+T004,R002,Aisha Khan,Customer reports intermittent touch freezing after screen replacement.,High,P1,Open,Technician Team,Recommended,2026-08-14 22:26,,,
+T005,R002,Aisha Khan,Customer reports intermittent touch freezing after screen replacement.,High,P1,Open,Technician Team,Recommended,2026-08-14 22:26,,,
+T006,R002,Aisha Khan,Customer reports intermittent touch freezing after screen replacement.,High,P1,Open,Technician Team,Recommended,2026-08-14 22:41,,,
+T007,R007,Adil,"The repaired iPhone 15 screen is not working properly; it gets stuck and takes time to open/respond. The customer reported no other issues and no overheating, smoke, battery swelling, or burning smell.",Medium,P2,Open,Technician Team,Recommended,2026-08-15 00:33,,,
+T008,R006,Demo Customer,Customer reported a post-service screen issue.,High,P1,Open,Technician Team,Recommended,2026-08-15 00:38,,,
+T009,R012,adil Abbas,Customer reports screen touch freezing after repair.,High,P1,Open,Technician Team,Not Required,2026-08-15 02:21,65.0,False,Technician follow-up
+T010,R013,Demo Customer,Customer reports screen touch freezing after repair.,High,P1,Open,Technician Team,Not Required,2026-08-15 02:25,65.0,False,Technician follow-up
+T011,R014,Demo Customer,Customer reports screen touch freezing after repair.,High,P1,Open,Technician Team,Required,2026-08-15 02:32,75.0,False,Warranty review + Technician follow-up
+T012,R015,Demo Customer,"The repaired device is not working properly; the customer reported the screen is damaged after the service and said there was no new physical damage or water exposure, only screen damage right now.",Medium,P2,Open,Technician Team,Not Required,2026-08-15 03:08,40.0,False,Technician follow-up
+T013,R016,Adil Abbas ,"Customer reported that the replaced screen still has an issue and the screen is damaged; the issue began after the service. No other issues such as water exposure, overheating, smoke, swelling, or burning smell were reported.",Critical,P0,Escalated,Senior Technician,Not Required,2026-08-15 12:44,100.0,True,Immediate escalation

@@ -1,0 +1,10 @@
+resolution_id,ticket_id,customer_name,resolution_type,status,assigned_to,scheduled_for,resolved_at,customer_confirmed,final_csat,repair_id,priority,created_at,started_at,verification_call_id,verification_feedback,verified_at
+RS001,T001,Rahul Sharma,Technician Revisit,Resolved,Technician Team,2026-08-15 10:00,2026-08-15 00:58,No,,,,,,,,
+RS002,T002,Arjun Mehta,Immediate Technician Escalation,Resolved,Senior Technician,2026-08-14 18:00,2026-08-15 00:58,No,,,,,,,,
+RS003,T007,Adil,Warranty Review + Technician Revisit,Resolved,Technician Team,2026-08-15 08:33,2026-08-15 00:56,No,,,,,,,,
+RS004,T008,Demo Customer,Warranty Review + Technician Revisit,Scheduled,Technician Team,2026-08-15 04:38,,No,,,,,,,,
+RS005,T009,adil Abbas,Technician Revisit,Scheduled,Technician Team,,,,,R012,P1,2026-08-15 02:21,,,,
+RS006,T010,Demo Customer,Technician Revisit,Scheduled,Technician Team,,,,,R013,P1,2026-08-15 02:25,,,,
+RS007,T011,Demo Customer,Technician Revisit,Scheduled,Technician Team,,,,,R014,P1,2026-08-15 02:32,,,,
+RS008,T012,Demo Customer,Technician Revisit,Scheduled,Technician Team,,,,,R015,P2,2026-08-15 03:08,,,,
+RS009,T013,Adil Abbas ,Technician Revisit,Scheduled,Senior Technician,,,,,R016,P0,2026-08-15 12:44,,,,

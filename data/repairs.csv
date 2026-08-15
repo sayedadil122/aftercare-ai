@@ -1,0 +1,18 @@
+repair_id,customer_name,phone,device,repair_type,completed_at,status,followup_time
+R001,Rahul Sharma,919876543210,iPhone 14,Screen Replacement,2026-08-14 14:00,Completed,2026-08-14 17:00
+R002,Aisha Khan,919876543211,Samsung S23,Battery Replacement,2026-08-14 13:15,Completed,2026-08-14 19:15
+R003,Vikram Patel,919876543212,OnePlus 11,Charging Port Repair,2026-08-14 11:30,Completed,2026-08-14 15:30
+R004,Neha Verma,919876543213,iPhone 13,Battery Replacement,2026-08-13 18:45,Completed,2026-08-14 12:45
+R005,Arjun Mehta,919876543214,Xiaomi 13 Pro,Display Repair,2026-08-13 17:20,Completed,2026-08-14 11:20
+R006,Demo Customer,+91 6386351022,iPhone 14,Display Repair,2026-08-14 23:40,Completed,2026-08-15 03:40
+R007,Adil,+916386351022,iPhone 15,Screen Replacement,2026-08-14 23:43,Completed,2026-08-15 03:43
+R008,Aaaaaa,+916386351022,Samsung S23,Screen Replacement,2026-08-14 23:54,Completed,2026-08-15 03:54
+R009,Adil sayed,+916386351022,OnePlus 11,Camera Repair,2026-08-15 01:11,Completed,2026-08-15 07:11
+R010,Demo Customer,+919876543299,iPhone 15,Screen Replacement,2026-08-15 01:11,Completed,2026-08-15 05:11
+R011,Adil Sayed,+916386351022,Samsung S24,Screen Replacement,2026-08-15 01:18,Completed,2026-08-15 05:18
+R012,adil Abbas,+916386351022,iPhone 14,Battery Replacement,2026-08-15 01:28,Completed,2026-08-15 09:28
+R013,Demo Customer,+916386351022,OnePlus 12,Screen Replacement,2026-08-15 02:25,Completed,2026-08-15 06:25
+R014,Demo Customer,+916386351022,iPhone 15,Screen Replacement,2026-08-15 02:31,Completed,2026-08-15 06:31
+R015,Demo Customer,+916386351022,Samsung S24,Screen Replacement,2026-08-15 02:33,Completed,2026-08-15 06:33
+R016,Adil Abbas ,+916386351022,Pixel 8,Screen Replacement,2026-08-15 03:05,Completed,2026-08-15 07:05
+R017,Adil Abbas,+916386351022,Samsung S24,Camera Repair,2026-08-15 12:40,Completed,2026-08-15 18:40
